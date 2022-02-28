@@ -1,23 +1,23 @@
-<mxfile host="app.diagrams.net" modified="2022-02-28T10:27:08.431Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 OPR/84.0.4316.21" etag="VaGo8dNzMLLW538zjra4" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-28T10:28:27.002Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 OPR/84.0.4316.21" etag="Yh7k-rIIIMK5xsSNanIs" version="16.6.4" type="github">
   <diagram id="aybCKpFuZhTCfyIRc5MV" name="Page-1">
     <mxGraphModel dx="1038" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="u23GMjI07x5TltYR7XnO-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="u23GMjI07x5TltYR7XnO-1" target="u23GMjI07x5TltYR7XnO-6">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="u23GMjI07x5TltYR7XnO-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="30" width="240" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="u23GMjI07x5TltYR7XnO-6" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="90" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="u23GMjI07x5TltYR7XnO-1" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="180" y="70" width="50" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="u23GMjI07x5TltYR7XnO-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="30" width="240" height="210" as="geometry" />
-        </mxCell>
         <mxCell id="u23GMjI07x5TltYR7XnO-5" value="&lt;b&gt;Currency Converter&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="290" y="50" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="u23GMjI07x5TltYR7XnO-6" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="90" width="160" height="80" as="geometry" />
+        <mxCell id="u23GMjI07x5TltYR7XnO-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="u23GMjI07x5TltYR7XnO-1" target="u23GMjI07x5TltYR7XnO-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="u23GMjI07x5TltYR7XnO-7" value="Convert currency" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="115" width="60" height="30" as="geometry" />
